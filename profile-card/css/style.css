@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #f9fafb;
+  background-image: linear-gradient(#f9fafb, #d2d6db);
 }
 
 * {
